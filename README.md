@@ -5,7 +5,7 @@ Aplicación móvil de estudio desarrollada con **React Native, Expo y TypeScript
 ## Requisitos
 
 - Node.js y npm.
-- Android con Expo Go.
+- Android con Expo Go 57.
 
 ## Instalar y ejecutar 
 

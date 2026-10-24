@@ -26,10 +26,9 @@ export default function Settings() {
         </Heading>
 
         <Sub>
-          Proyecto académico de Programación II,
+          Proyecto de Programación II,
           Universidad Mariano Gálvez de Guatemala,
           sede Jalapa, sección B.
-          No es una aplicación institucional oficial.
         </Sub>
 
         <Sub>
